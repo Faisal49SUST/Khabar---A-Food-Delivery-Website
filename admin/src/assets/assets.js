@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://khabar-a-food-delivery-website-backend.onrender.com'
+export const url = 'https://khabar-a-food-delivery-website-backend-ys94.onrender.com'
