@@ -8,7 +8,7 @@ import { useNavigate } from "react-router-dom";
 
 const List = () => {
 
-  const url ="http://localhost:4000"
+  const url ="https://khabar-a-food-delivery-website-backend-kmqo.onrender.com"
   const [list, setList] = useState([]);
 
   const fetchList = async () => {
