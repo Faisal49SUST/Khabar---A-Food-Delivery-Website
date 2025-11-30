@@ -10,7 +10,7 @@ import {useNavigate } from "react-router-dom";
 
 const Add = () => {
 
-  const url ="http://localhost:4000";
+  const url ="https://khabar-a-food-delivery-website-backend-kmqo.onrender.com";
   const [image, setImage] = useState(false);
   const [data, setData] = useState({
     name: "",
