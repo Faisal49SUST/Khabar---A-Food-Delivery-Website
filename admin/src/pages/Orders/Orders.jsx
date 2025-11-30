@@ -10,7 +10,7 @@ import { StoreContext } from "../../context/StoreContext";
 import { useNavigate } from "react-router-dom";
 
 const Orders = () => {
-  const url ="http://localhost:4000";
+  const url ="https://khabar-a-food-delivery-website-backend-kmqo.onrender.com";
   const [orders, setOrders] = useState([]);
 
   const fetchAllOrders = async () => {
